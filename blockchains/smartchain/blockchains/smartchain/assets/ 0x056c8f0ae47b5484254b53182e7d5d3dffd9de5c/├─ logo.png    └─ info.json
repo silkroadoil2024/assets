@@ -1,0 +1,11 @@
+{
+  "name": "Silkroad Oil Coin",
+  "symbol": "SOC",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Silkroad Oil Coin (SOC) is the utility token of Silkroad Oil International Petrochemical Airport, offering instant discounts on petroleum product purchases, fast transactions, and community rewards on BNB Chain.",
+  "website": "https://silkroadoil.shop/",
+  "explorer": "https://bscscan.com/token/0x056c8f0ae47b5484254b53182e7d5d3dffd9de5c",
+  "status": "active",
+  "id": "0x056c8f0ae47b5484254b53182e7d5d3dffd9de5c"
+}
